@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import datetime
 import TwitterAuth
+#cmd: pip3 install (bs4, tweepy, requests)
 
 data = requests.get('https://crumblcookies.com/')
 data.encoding = 'utf-8'
