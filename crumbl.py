@@ -34,6 +34,12 @@ with open('readme.txt', 'w') as f:
         f.write(test)
         f.write("\n")
 
+      
+"""
+TODO
+- Integrate with Twitter API
+- Autorun 1 time/week
+"""
 
 
 
